@@ -1,6 +1,9 @@
 <div align="center">
 
-# FixIt Technologies
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FixIt-Technologies/.github/main/profile/assets/fixit-wordmark-white.svg">
+  <img src="https://raw.githubusercontent.com/FixIt-Technologies/.github/main/profile/assets/fixit-wordmark-red.svg" alt="FixIt" width="260">
+</picture>
 
 **Pomoc s domácností v reálném čase.**
 Real-time home services for Czechia — from an urgent fix to a scheduled pro.
